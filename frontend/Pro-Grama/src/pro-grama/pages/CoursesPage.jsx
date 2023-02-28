@@ -15,7 +15,7 @@ function CoursesPage() {
   const [listCourses, setListCourses] = useState([]);
   useEffect(() => {
     axios
-      .get("http://pro-grama-production.up.railway.app/course/public")
+      .get("https://pro-grama-production.up.railway.app/course/public")
       .then((res) => setListCourses(res.data.response));
   }, []);
   const handleChange = (e) => {
