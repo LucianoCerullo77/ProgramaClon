@@ -54,12 +54,13 @@ _Para el despliegue del proyecto se utilizaron las siguientes herramientas:_
 
 * Administrador y Organizador -> [Trello](https://trello.com/es)
 * Entorno de desarrollo y test de APIs -> [Postman](https://www.postman.com/)
-* Microsoft Word, Excel
+* Microsoft Word, Excel -> [Resultados pruebas](https://docs.google.com/spreadsheets/d/17e_6iiFXTffdveNeAR9xZK1g79AVfOQ6VSFupRZ5h_Q/edit?usp=sharing)
 
 ## Autores ✒️
 
 |   Nombre  |    Rol   |      Contacto      |
 | :-------- | :------- | :------------------------- |
+| Rivers Emmanuel | Project Manager |  |
 | Ale Vedoya | Desarrolladora Java | [LinkedIn](https://www.linkedin.com/in/alejandravedoya/), [GitHub](https://github.com/AleVedoya) |
 | Adonis Castellanos | Desarrollador Java | [LinkedIn](https://www.linkedin.com/in/adoniscastellanos/), [GitHub](https://github.com/AdonisCastellanos) |
 | Leonardo Dávalos | Desarrollador Java | [LinkedIn](https://linkedin.com/in/leonardo-davalos), [GitHub](https://github.com/davaloslm) |
@@ -81,4 +82,4 @@ _Para el despliegue del proyecto se utilizaron las siguientes herramientas:_
 #### Seleccionado 6 - Grupo 02 - Java/React 🤓
 #### Muchas Gracias.
 
----
+
