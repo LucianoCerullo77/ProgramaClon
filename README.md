@@ -1,4 +1,4 @@
-# PRO.grama
+# PRO-Grama
 
 Aplicación Web que ofrece una amplia variedad de cursos de programación en diferentes lenguajes y niveles, desde principiantes hasta avanzados.
 
